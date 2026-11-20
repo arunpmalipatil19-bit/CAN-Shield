@@ -24,6 +24,8 @@ Development and documentation of a CAN Bus Shield project
    Testing and validation of communication.
 
 Project: CAN Shield
+
 Domain: Embedded Systems,Automotive Electronics,CAN Communication
+
 Status: In Progress
 
